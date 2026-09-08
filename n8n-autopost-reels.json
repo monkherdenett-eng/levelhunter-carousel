@@ -1,0 +1,136 @@
+{
+  "name": "Level Hunter - Auto-post REELS (IG + FB)",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "r-trigger-manual",
+      "name": "Test (manual)",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 18 * * *"
+            }
+          ]
+        }
+      },
+      "id": "r-trigger-cron",
+      "name": "Daily 18:00 (UB)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        200
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "a1",
+              "name": "graphVersion",
+              "type": "string",
+              "value": "v25.0"
+            },
+            {
+              "id": "a2",
+              "name": "igUserId",
+              "type": "string",
+              "value": "PASTE_IG_USER_ID"
+            },
+            {
+              "id": "a3",
+              "name": "pageId",
+              "type": "string",
+              "value": "PASTE_PAGE_ID"
+            },
+            {
+              "id": "a4",
+              "name": "accessToken",
+              "type": "string",
+              "value": "PASTE_LONG_LIVED_PAGE_TOKEN"
+            },
+            {
+              "id": "a5",
+              "name": "manifestUrl",
+              "type": "string",
+              "value": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/manifest-reels.json"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "r-config",
+      "name": "Config",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        240,
+        100
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== Level Hunter — Auto-post REELS to Instagram + Facebook =====\n// Config-оос: graphVersion, igUserId, pageId, accessToken, manifestUrl\n//\n// Carousel-ийн workflow-оос тусдаа: reel нь IG дээр media_type=REELS +\n// video_url, FB дээр video_reels (эсвэл /videos) шаарддаг — өөр дуудлага.\nconst cfg = $input.first().json;\nconst G = `https://graph.facebook.com/${cfg.graphVersion}`;\nconst token = cfg.accessToken;\nconst igUser = cfg.igUserId;\nconst pageId = cfg.pageId;\n\nconst http = async (method, path, params) =>\n  await this.helpers.httpRequest({\n    method,\n    url: `${G}/${path}`,\n    qs: Object.assign({}, params, { access_token: token }),\n    json: true,\n  });\n\n// 1) manifest татах\nconst manifest = await this.helpers.httpRequest({ method: 'GET', url: cfg.manifestUrl, json: true });\n\n// 2) өнөөдрийн огноо (Asia/Ulaanbaatar = UTC+8)\nconst ub = new Date(Date.now() + 8 * 3600 * 1000);\nconst today = ub.toISOString().slice(0, 10);\n\n// 3) өнөөдрийн queued reel\nconst post = (manifest.posts || []).find(p => p.date === today && p.status !== 'posted');\nif (!post) {\n  return [{ json: { skipped: true, today, reason: 'Өнөөдөр тавих reel алга' } }];\n}\n\n// Meta-д өгөх хаяг: jsDelivr нь content-type-аа video/mp4 гэж зөв өгдөг тул\n// түүнийг эхэнд нь тавина; байхгүй бол raw хаяг руу шилжинэ.\nconst videoUrl = post.videoCdn || post.video;\nif (!videoUrl) throw new Error('manifest дотор video хаяг алга: ' + post.id);\n\nconst out = { id: post.id, title: post.title, date: today, video: videoUrl, ig: null, fb: null };\n\n// ---------- Instagram Reel (3 алхам) ----------\nif (post.ig) {\n  const container = await http('POST', `${igUser}/media`, {\n    media_type: 'REELS',\n    video_url: videoUrl,\n    caption: post.caption,\n    share_to_feed: true,\n  });\n  // Видео боловсруулалт зурагнаас удаан: 3 секунд тутам, 3 минут хүртэл хүлээнэ.\n  let ready = false;\n  for (let i = 0; i < 60; i++) {\n    const s = await http('GET', `${container.id}`, { fields: 'status_code,status' });\n    if (s.status_code === 'FINISHED') { ready = true; break; }\n    if (s.status_code === 'ERROR') throw new Error('IG container ERROR: ' + JSON.stringify(s));\n    await new Promise(r => setTimeout(r, 3000));\n  }\n  if (!ready) throw new Error('IG container 3 минутын дотор бэлэн болсонгүй: ' + container.id);\n  const pub = await http('POST', `${igUser}/media_publish`, { creation_id: container.id });\n  out.ig = pub.id;\n}\n\n// ---------- Facebook Reel ----------\n// Эхлээд жинхэнэ FB Reel (video_reels, 3 фаз). Хэрэв энэ эрх/endpoint\n// боломжгүй бол ердийн видео пост руу (/videos) шилжинэ — постлогдохгүй\n// байснаас ердийн видео болж гарсан нь дээр.\nif (post.fb) {\n  try {\n    const start = await http('POST', `${pageId}/video_reels`, { upload_phase: 'start' });\n    await this.helpers.httpRequest({\n      method: 'POST',\n      url: `https://rupload.facebook.com/video-upload/${cfg.graphVersion}/${start.video_id}`,\n      headers: { Authorization: `OAuth ${token}`, file_url: videoUrl },\n      json: true,\n    });\n    const finish = await http('POST', `${pageId}/video_reels`, {\n      video_id: start.video_id,\n      upload_phase: 'finish',\n      video_state: 'PUBLISHED',\n      description: post.caption,\n    });\n    out.fb = start.video_id;\n    out.fbFinish = finish;\n  } catch (error) {\n    const vid = await http('POST', `${pageId}/videos`, {\n      file_url: videoUrl,\n      description: post.caption,\n    });\n    out.fb = vid.id;\n    out.fbFallback = 'video_reels боломжгүй тул /videos-оор тавив: ' + (error.message || error);\n  }\n}\n\nreturn [{ json: out }];\n"
+      },
+      "id": "r-publish",
+      "name": "Publish Reel IG + FB",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        500,
+        100
+      ]
+    }
+  ],
+  "connections": {
+    "Test (manual)": {
+      "main": [
+        [
+          {
+            "node": "Config",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Daily 18:00 (UB)": {
+      "main": [
+        [
+          {
+            "node": "Config",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Config": {
+      "main": [
+        [
+          {
+            "node": "Publish Reel IG + FB",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "pinData": {}
+}

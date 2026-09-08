@@ -2,7 +2,7 @@
   "repo": "monkherdenett-eng/levelhunter-carousel",
   "rawBase": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main",
   "kind": "reels",
-  "note": "Тусдаа файл: carousel-ийн manifest.json-д хүрэхгүй, одоо ажиллаж байгаа workflow-г эвдэхгүй. Reels нь IG дээр media_type=REELS + video_url, FB дээр /videos endpoint шаарддаг тул тусдаа урсгал. Meta-гийн API-д videoCdn (jsDelivr) хаягийг өг: raw.githubusercontent нь content-type-аа application/octet-stream гэж өгдөг бол jsDelivr video/mp4 гэж зөв өгдөг.",
+  "note": "Тусдаа файл: carousel-ийн manifest.json-д хүрэхгүй, одоо ажиллаж байгаа workflow-г эвдэхгүй. Reels нь IG дээр media_type=REELS + video_url, FB дээр /videos endpoint шаарддаг тул тусдаа урсгал. Meta-гийн API-д videoCdn (jsDelivr) хаягийг өг: raw.githubusercontent нь content-type-аа application/octet-stream гэж өгдөг бол jsDelivr video/mp4 гэж зөв өгдөг. Reels нь 18:00-д тавигдана — carousel 10:00-д тавигддаг тул хоёулаа зэрэг ажиллахгүй.",
   "timezone": "Asia/Ulaanbaatar",
   "generated": "2026-09-08",
   "posts": [
@@ -10,7 +10,7 @@
       "id": "01-strategi",
       "title": "Стратеги — Хөлдөөсөн дүрэм",
       "date": "2026-09-09",
-      "time": "10:00",
+      "time": "18:00",
       "ig": true,
       "fb": true,
       "status": "queued",
