@@ -1,0 +1,16 @@
+🎯 EA суулгах 4 алхам — таван минут, нэг удаа.
+
+1️⃣ Дэвтэр → Тохиргоо → MetaTrader холболт → Түлхүүр үүсгэ
+2️⃣ devter-sync.mq5 татаад MT5-ийн MQL5/Experts фолдерт хий
+3️⃣ Tools → Options → Expert Advisors → Allow WebRequest → devterfx.mn нэм
+4️⃣ EA-г чарт дээрээ чирж, Token талбарт токеноо тавь
+
+Амжилттай болсныг яаж мэдэх вэ: чарт дээр «Devter» самбар гарч, Тохиргоонд «Холбогдсон» гэж бичигдэнэ.
+
+Нэвтрэхийг хүсвэл 💬 чат бичээрэй.
+🔗 devterfx.mn · 🔑 K8HRG
+
+—
+⚠️ Боловсролын зорилготой. Арилжаа эрсдэлтэй, зөвхөн алдаж болох мөнгөөр.
+
+#Devter #Дэвтэр #tradingjournal #арилжаа #forex #трейдинг #алт #XAUUSD #GabrielsTradingArena #LevelHunter #монгол #tradingmongolia
