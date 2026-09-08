@@ -2,7 +2,7 @@
   "repo": "monkherdenett-eng/levelhunter-carousel",
   "rawBase": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main",
   "kind": "reels",
-  "note": "Тусдаа файл: carousel-ийн manifest.json-д хүрэхгүй, одоо ажиллаж байгаа workflow-г эвдэхгүй. Reels нь IG дээр media_type=REELS + video_url, FB дээр /videos endpoint шаарддаг тул тусдаа урсгал. Meta-гийн API-д videoCdn (jsDelivr) хаягийг өг: raw.githubusercontent нь content-type-аа application/octet-stream гэж өгдөг бол jsDelivr video/mp4 гэж зөв өгдөг. Reels нь 18:00-д тавигдана — carousel 10:00-д тавигддаг тул хоёулаа зэрэг ажиллахгүй.",
+  "note": "Тусдаа файл: carousel-ийн manifest.json-д хүрэхгүй, одоо ажиллаж байгаа workflow-г эвдэхгүй. Reels нь IG дээр media_type=REELS + video_url, FB дээр /videos endpoint шаарддаг тул тусдаа урсгал. Meta-гийн API-д videoCdn (jsDelivr) хаягийг өг: raw.githubusercontent нь content-type-аа application/octet-stream гэж өгдөг бол jsDelivr video/mp4 гэж зөв өгдөг. Reels нь 18:00-д тавигдана — carousel 10:00-д тавигддаг тул хоёулаа зэрэг ажиллахгүй. videoCdn нь commit sha-гаар тогтоогдсон: jsDelivr @main-ийг 12 цаг кэшлэдэг тул шинэчилсэн видео биш хуучныг өгөх эрсдэлтэй, sha-тай хаяг үргэлж яг тэр файлыг өгнө.",
   "timezone": "Asia/Ulaanbaatar",
   "generated": "2026-09-08",
   "posts": [
@@ -20,7 +20,7 @@
       "height": 1920,
       "video": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-09/reels/01-strategi/reel.mp4",
       "caption": "🎯 Толгойд байгаа дүрэм — дүрэм биш. Санал.\n\nГар чичирч байх агшинд санал чамайг аврахгүй. Тайван байхдаа бичсэн дүрэм л аварна.\n\nДЭВТЭРийн Стратеги үүнийг шийднэ:\n✅ Зах зээлийн нөхцөл, setup-аа мөр мөрөөр бич\n✅ Орох босгоо тогтоо — 5 шалгуураас 4 нь\n✅ Хөлдөө: дунд нь өөрчилж, өөрийгөө хуурч чадахгүй\n✅ Чарт дээр checklist болж гарна — ногоон гэрэл асахгүй бол ОРОХГҮЙ\n✅ Дараа нь аль стратеги чинь мөнгө авчирдгийг R-ээр харуулна\n\nМэдрэмжээр биш, тоогоор. Сахилга бат = дата.\n\nНэвтрэхийг хүсвэл 💬 чат бичээрэй.\n🔗 devterfx.mn\n🔑 Partner code: K8HRG\n\n💬 Чиний дүрэм бичигдсэн үү, толгойд байна уу?\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа эрсдэлтэй, зөвхөн алдаж болох мөнгөөр.\n\n#Devter #Дэвтэр #стратеги #tradingdiscipline #арилжаа #forex #трейдинг #алт #XAUUSD #GabrielsTradingArena #LevelHunter #монгол #tradingmongolia",
-      "videoCdn": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@main/2026-09/reels/01-strategi/reel.mp4"
+      "videoCdn": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@685c157c792d1204bf9855864a0c42486fdafd7c/2026-09/reels/01-strategi/reel.mp4"
     }
   ],
   "cdnBase": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@main"
