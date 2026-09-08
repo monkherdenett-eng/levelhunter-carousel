@@ -1,0 +1,25 @@
+{
+  "repo": "monkherdenett-eng/levelhunter-carousel",
+  "rawBase": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main",
+  "kind": "reels",
+  "note": "Тусдаа файл: carousel-ийн manifest.json-д хүрэхгүй, одоо ажиллаж байгаа workflow-г эвдэхгүй. Reels нь IG дээр media_type=REELS + video_url, FB дээр /videos endpoint шаарддаг тул тусдаа урсгал.",
+  "timezone": "Asia/Ulaanbaatar",
+  "generated": "2026-09-08",
+  "posts": [
+    {
+      "id": "01-strategi",
+      "title": "Стратеги — Хөлдөөсөн дүрэм",
+      "date": "2026-09-09",
+      "time": "10:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "type": "reel",
+      "duration": 23.4,
+      "width": 1080,
+      "height": 1920,
+      "video": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-09/reels/01-strategi/reel.mp4",
+      "caption": "Толгойд байгаа дүрэм — дүрэм биш. Санал.\n\nГар чичирч байх агшинд санал чамайг аврахгүй. Тайван байхдаа бичсэн дүрэм л аварна.\n\nДэвтэр дээр стратегиа бичээд хөлдөөвөл:\n📌 Дүрэм чинь чарт дээр checklist болж гарна\n📌 Хангалттай шалгуур биелэхэд ногоон гэрэл асна\n📌 Дараа нь аль стратеги чинь мөнгө авчирдгийг тоогоор харуулна\n\nЭнэ бол мэдрэмжээр биш, тоогоор арилжих зам.\n\n🌐 devterfx.mn — Gabriel's Trading Arena-гийн гишүүдэд\n\n—\n⚠️ Арилжаа эрсдэлтэй. Энэ бол санхүүгийн зөвлөгөө биш. Зөвхөн алдаж болох мөнгөөр.\n\n#Devter #LevelHunter #арилжаа #forex #трейдинг #стратеги #алт #XAUUSD #GabrielsTradingArena #монгол #трейдер #tradingmongolia"
+    }
+  ]
+}
