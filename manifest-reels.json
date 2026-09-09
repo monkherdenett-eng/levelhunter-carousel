@@ -1,7 +1,7 @@
 {
   "repo": "monkherdenett-eng/levelhunter-carousel",
   "rawBase": "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main",
-  "cdnBase": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@58db88f0000b878d792e397c3fac0c05fbcfdd78",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@cd9652eb4a2c8d4fa21c684e458a2825cb086745",
   "kind": "reels",
   "note": "30 reel, 10 хэсэг × 3. Ээлж: 1-р хэсэг 1, 11, 21-нд; 2-р хэсэг 2, 12, 22-нд гэх мэт. Өдөр бүр 14:00 (UB), carousel-тай нэг цагт. Meta-гийн API-д videoCdn хаягийг өг: raw.githubusercontent нь octet-stream гэж өгдөг бол jsDelivr video/mp4 гэж зөв өгдөг. Дуу нь бүгд өөрсдийн синтез — Instagram-ын trending дуу зөвхөн апп дотор хавсаргагддаг тул файлд шингээх боломжгүй.",
   "timezone": "Asia/Ulaanbaatar",
