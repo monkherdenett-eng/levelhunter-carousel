@@ -1175,24 +1175,574 @@
       "caption": "😵 Чарт нэг сайт, мэдээ өөр сайт, тэмдэглэл гурав дахь дээр?\n\nНэг өдөр Дэвтэр дээр:\n🌅 Өглөө — Самбар, Зах зээл\n📈 Арилжааны үед — Чеклист, Тооцоолуур\n🌙 Орой — Тэмдэглэл, Статистик\n\nБүгд нэг дор, монголоор.\n\n👉 Туршиж үзэх бол 💬 чат бичээрэй.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#Дэвтэр #арилжаа #форекс #монгол #тэмдэглэл"
     },
     {
-      "id": "k30-itgel-aldagdal",
-      "title": "Итгэл — Ашгаа харуулдаг хүнээс асуу",
-      "section": "ИТГЭЛ",
-      "round": 2,
-      "reel": "30-itgel-aldagdal",
+      "id": "dk-c01",
+      "title": "Дэвтэр дүр — Мэдээ монголоор",
+      "section": "ААВ БА ХҮҮ",
+      "round": 1,
       "date": "2026-11-01",
       "time": "14:00",
       "ig": true,
       "fb": true,
       "status": "queued",
       "slides": [
-        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-1.jpg",
-        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-2.jpg",
-        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-3.jpg",
-        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-4.jpg",
-        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-5.jpg"
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c01/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c01/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c01/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c01/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c01/slide-5.jpg"
       ],
-      "caption": "🔍 Ашгаа харуулдаг хүнээс алдагдлыг нь асуу\n\nСкриншот — сонгосон хожил, засварлаж болно, алдагдал нуугдана.\nНийтийн линк — бүх арилжаа, систем тооцоолсон, алдагдал харагдана.\n\nДэвтэр дээрх линкэд хожлын хувь, харьцаа, R, уналт харагдана. Мөнгөн дүн харагдахгүй.\n\nИл тод байх нь итгэл.\n\n👉 Туршиж үзэх бол 💬 чат бичээрэй.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#итгэл #залилан #статистик #арилжаа #Дэвтэр"
+      "caption": "NFP гэж юу болохыг ч мэдэлгүй ороод шатсан 😂 Аав бүр уурласан.\nОдоо Дэвтэрт мэдээ бүр монголоор — алт, доллар яагаад хөдөлдгийг нь хүртэл хэлж өгдөг.\n\n🇬🇧 Every economic release explained in Mongolian — why it moves gold and FX.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c02",
+      "title": "Дэвтэр дүр — Мэдээн дээр бектест",
+      "section": "ХҮҮ",
+      "round": 2,
+      "date": "2026-11-02",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c02/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c02/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c02/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c02/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c02/slide-5.jpg"
+      ],
+      "caption": "FOMC шөнө орсон, өглөө данс 0 😭 Тэр шөнийг мартаагүй ээ.\nОдоо өнгөрсөн FOMC, NFP дээр эхлээд туршдаг болсон. Мөнгө биш, цаг л зарцуулна.\n\n🇬🇧 Backtest real past NFP / FOMC releases with real spreads before risking money.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c03",
+      "title": "Дэвтэр дүр — Байрлалын хэмжээ",
+      "section": "ААВ БА ХҮҮ",
+      "round": 3,
+      "date": "2026-11-03",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c03/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c03/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c03/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c03/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c03/slide-5.jpg"
+      ],
+      "caption": "Нэг арилжаагаар 20% алдчихлаа 😱 Лотоо нүдээрээ тооцсон…\nДанс, эрсдэл, стопоо оруулахад лот өөрөө гарна. Нүдээрээ биш, тоогоор ор.\n\n🇬🇧 Position size from your balance, risk % and stop — gold and FX.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c04",
+      "title": "Дэвтэр дүр — 67 зурах хэрэгсэл",
+      "section": "ХҮҮ",
+      "round": 4,
+      "date": "2026-11-04",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c04/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c04/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c04/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c04/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c04/slide-5.jpg"
+      ],
+      "caption": "Хөөе, 67 зурах хэрэгсэл нэг дор байна 🤯\nФибо, Ганн, Эллиотт, хармоник — гурван таб нээх хэрэггүй, нэг чартад бүгд.\n\n🇬🇧 67 drawing tools on one chart, with keyboard shortcuts.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c05",
+      "title": "Дэвтэр дүр — Арилжааны тэмдэглэл",
+      "section": "ААВ БА ХҮҮ",
+      "round": 5,
+      "date": "2026-11-05",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c05/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c05/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c05/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c05/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c05/slide-5.jpg"
+      ],
+      "caption": "Аав мэдчихлээ 😬 Шөнө дунд хүртэл стопгүй…\n«Сүүлийн 20 арилжаанаас хэд нь ашигтай байсан бэ?» гэхэд хариулж чадаагүй. Одоо 1 минутад тэмдэглэдэг болсон.\n\n🇬🇧 A one-minute trading journal: reason, emotion, screenshot.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c06",
+      "title": "Дэвтэр дүр — Сессийн хайрцаг",
+      "section": "ХҮҮ",
+      "round": 6,
+      "date": "2026-11-06",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c06/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c06/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c06/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c06/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c06/slide-5.jpg"
+      ],
+      "caption": "Лондоныг хүлээсээр нэг цаг хоцорлоо 🤦 Европ цагаа сольчихсон байсан.\nОдоо сесс бүр Улаанбаатарын цагаар, цагийн шилжилттэйгээ өөрөө зурагдана.\n\n🇬🇧 Session boxes in Ulaanbaatar time, daylight saving handled for you.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c07",
+      "title": "Дэвтэр дүр — Үнийн сэрэмжлүүлэг",
+      "section": "ААВ БА ХҮҮ",
+      "round": 7,
+      "date": "2026-11-07",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c07/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c07/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c07/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c07/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c07/slide-5.jpg"
+      ],
+      "caption": "Шөнийн 3 цагт чарт ширтэж суусан 😵 Аав «УНТ!» гэсэн.\nОдоо түвшнээ тавиад унтдаг — үнэ хүрэхэд Discord-оор DM ирнэ.\n\n🇬🇧 Price alerts straight to your Discord DMs, even with the site closed.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c08",
+      "title": "Дэвтэр дүр — Лаа лаагаар бектест",
+      "section": "ХҮҮ",
+      "round": 8,
+      "date": "2026-11-08",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c08/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c08/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c08/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c08/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c08/slide-5.jpg"
+      ],
+      "caption": "«90% ажилладаг стратеги» гэнэ 🙄 Бараг бүх мөнгөө хийх гэж байлаа.\nИтгэхээсээ өмнө лаа лаагаар өөрөө шалга. Тоо худлаа хэлдэггүй.\n\n🇬🇧 Candle-by-candle backtesting from a random date, with a full study report.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c09",
+      "title": "Дэвтэр дүр — Гараг, цагийн зураглал",
+      "section": "ААВ БА ХҮҮ",
+      "round": 9,
+      "date": "2026-11-09",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c09/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c09/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c09/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c09/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c09/slide-5.jpg"
+      ],
+      "caption": "Орой болгон 21 цагт алддаг байсан 😤 Аав «ДАХИАД!» гэсэн.\nЦагийн зураглал хамгийн муу цагийг чинь улаанаар харуулна.\n\n🇬🇧 A weekday × hour heatmap that names your worst trading hour.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c10",
+      "title": "Дэвтэр дүр — Сэтгэл хөдлөл → R",
+      "section": "ХҮҮ",
+      "round": 10,
+      "date": "2026-11-10",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c10/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c10/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c10/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c10/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c10/slide-5.jpg"
+      ],
+      "caption": "Уурлаад орсон арилжаа бүгд алдсан 😡 Танил уу?\nМэдрэмж бүр тоогоор харагддаг болохоор одоо уурлахаараа цай уудаг ☕\n\n🇬🇧 See which emotions cost you the most R.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c11",
+      "title": "Дэвтэр дүр — MetaTrader-ийн түүх оруулах",
+      "section": "ААВ БА ХҮҮ",
+      "round": 11,
+      "date": "2026-11-11",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c11/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c11/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c11/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c11/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c11/slide-5.jpg"
+      ],
+      "caption": "200 арилжааг гараар бичих гэнэ 😩 Өө үгүй!\nMetaTrader-ийн нэг файлаар бүх түүх орчихлоо. Долоо хоног биш, нэг минут.\n\n🇬🇧 Import your whole MT4/MT5 history from one HTML report.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c12",
+      "title": "Дэвтэр дүр — Түвшний зураглал",
+      "section": "ХҮҮ",
+      "round": 12,
+      "date": "2026-11-12",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c12/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c12/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c12/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c12/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c12/slide-5.jpg"
+      ],
+      "caption": "3 цаг чарт ширтээд 0 арилжаа 🫠 Бүгд л ингэдэг.\nPDH, PDL, сесс, FVG — нэг цэснээс асаахад өөрөө зурагдана.\n\n🇬🇧 Key levels, liquidity, BOS/CHoCH and FVG drawn from one menu.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c13",
+      "title": "Дэвтэр дүр — Жагсаалт (чеклист)",
+      "section": "ААВ БА ХҮҮ",
+      "round": 13,
+      "date": "2026-11-13",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c13/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c13/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c13/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c13/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c13/slide-5.jpg"
+      ],
+      "caption": "Групп дээрх сигналаар гүйж орсон 🏃 Аав «ЗОГС!» гэсэн.\nБүх нөхцөл ✓ болохоос нааш сетап түгжээтэй. Сигнал биш, дүрэм.\n\n🇬🇧 A checklist that keeps your setup locked until your conditions are met.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c14",
+      "title": "Дэвтэр дүр — Статистик",
+      "section": "ХҮҮ",
+      "round": 14,
+      "date": "2026-11-14",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c14/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c14/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c14/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c14/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c14/slide-5.jpg"
+      ],
+      "caption": "«Би үргэлж ашигтай» гэдэг найз минь 😏 Profit factor-оо асуухад чимээгүй болсон.\nМэдрэмж биш, баримт — тоо худлаа хэлдэггүй.\n\n🇬🇧 Win rate, profit factor, average R and drawdown, calculated for you.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c15",
+      "title": "Дэвтэр дүр — Алт, мөнгө төгрөгөөр",
+      "section": "ААВ БА ХҮҮ",
+      "round": 15,
+      "date": "2026-11-15",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c15/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c15/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c15/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c15/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c15/slide-5.jpg"
+      ],
+      "caption": "Ээж бөгж авах гээд алтны үнэ асуулаа 💍 Би унц, доллараар л мэддэг байсан 😅\nОдоо 1 грамм алт нь шууд төгрөгөөр харагдана.\n\n🇬🇧 Gold and silver price per gram in tögrög, updated every minute.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c16",
+      "title": "Дэвтэр дүр — Өнөөдрийн түвшин",
+      "section": "ХҮҮ",
+      "round": 16,
+      "date": "2026-11-16",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c16/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c16/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c16/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c16/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c16/slide-5.jpg"
+      ],
+      "caption": "Кофе уух хооронд өдрийн төлөвлөгөө бэлэн ☕\nСесс, өчигдрийн дээд, доод, дараагийн мэдээ — бүгд нэг картад.\n\n🇬🇧 Today's levels card: sessions, previous day, next news.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c17",
+      "title": "Дэвтэр дүр — Тайлан хуваалцах",
+      "section": "ААВ БА ХҮҮ",
+      "round": 17,
+      "date": "2026-11-17",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c17/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c17/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c17/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c17/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c17/slide-5.jpg"
+      ],
+      "caption": "«Ашигтай байгаа» гэсэн чинь аав итгэсэнгүй 🤨\nЛинк явуулаад харуулсан — харьцаа харагдана, мөнгө нуугдана.\n\n🇬🇧 Share your results by link — ratios and R only, never dollar amounts.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c18",
+      "title": "Дэвтэр дүр — Автомат холболт (EA)",
+      "section": "ХҮҮ",
+      "round": 18,
+      "date": "2026-11-18",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c18/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c18/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c18/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c18/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c18/slide-5.jpg"
+      ],
+      "caption": "Өдөрт 10 арилжаа, тэмдэглэл 0 😩\nMT5-аа холбоход арилжаа өөрөө орж ирдэг. Нууц үг дамжихгүй, зөвхөн уншина.\n\n🇬🇧 Auto-sync from MT5 with a read-only EA — no broker password shared.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c19",
+      "title": "Дэвтэр дүр — Арилжааны данс",
+      "section": "ААВ БА ХҮҮ",
+      "round": 19,
+      "date": "2026-11-19",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c19/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c19/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c19/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c19/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c19/slide-5.jpg"
+      ],
+      "caption": "Демо, реал холилдчихлоо 😱 Ашигтай гэж бодсон чинь…\nДанс бүр тусдаа тоологдвол үнэн нь харагдана.\n\n🇬🇧 Up to 8 accounts, each with its own journal and stats.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c20",
+      "title": "Дэвтэр дүр — Market structure дадлага",
+      "section": "ХҮҮ",
+      "round": 20,
+      "date": "2026-11-20",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c20/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c20/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c20/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c20/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c20/slide-5.jpg"
+      ],
+      "caption": "BOS гэж ороод шүүрдүүлчихлээ 🧹 Хаха, танил уу?\nМөнгө эрсдэлд оруулалгүй sweep, BOS-оо таньж сур.\n\n🇬🇧 Practise reading market structure and patterns with no money at risk.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c21",
+      "title": "Дэвтэр дүр — Эрсдэлийн хамгаалалт",
+      "section": "ААВ БА ХҮҮ",
+      "round": 21,
+      "date": "2026-11-21",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c21/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c21/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c21/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c21/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c21/slide-5.jpg"
+      ],
+      "caption": "Өнөөдөр 5 дараалан алдлаа 😤 «Ганцхан удаа нөхчихье…»\nТэр «ганцхан» чинь дансыг чинь дуусгана. Хязгаартаа хүрэхэд Дэвтэр анхааруулна.\n\n🇬🇧 Risk Guard: daily loss limit, trade cap and losing-streak warnings.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c22",
+      "title": "Дэвтэр дүр — Мэдээний дараах хөдөлгөөн",
+      "section": "ХҮҮ",
+      "round": 22,
+      "date": "2026-11-22",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c22/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c22/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c22/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c22/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c22/slide-5.jpg"
+      ],
+      "caption": "«NFP үргэлж 300 пипс явдаг» 🙄 Хэн хэлсэн юм?\nЦуурхал биш, мэдээ бүрийн дараах бодит хөдөлгөөнийг минут минутаар хар.\n\n🇬🇧 The real price reaction after each release, minute by minute, with spread.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c23",
+      "title": "Дэвтэр дүр — Сахилга батын оноо",
+      "section": "ААВ БА ХҮҮ",
+      "round": 23,
+      "date": "2026-11-23",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c23/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c23/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c23/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c23/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c23/slide-5.jpg"
+      ],
+      "caption": "Стопоо дахиад нүүлгэсэн 🙈 «Одоохон буцна» гэж бодсон…\nАшиг биш, зуршил чинь 100 оноогоор үнэлэгдэнэ.\n\n🇬🇧 A discipline score that grades your process, not your profit.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c24",
+      "title": "Дэвтэр дүр — Бектестийн бодит спред",
+      "section": "ХҮҮ",
+      "round": 24,
+      "date": "2026-11-24",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c24/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c24/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c24/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c24/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c24/slide-5.jpg"
+      ],
+      "caption": "Бектест дээр +20R, бодит дээр −5R 😭\nСпредээ тооцоогүй бектест өөрийгөө хуурах л юм. Лаа бүрийн бодит XM спредтэй турш.\n\n🇬🇧 Backtests charged with real XM spreads, candle by candle.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c25",
+      "title": "Дэвтэр дүр — Түвшин ахих шалгалт",
+      "section": "ААВ БА ХҮҮ",
+      "round": 25,
+      "date": "2026-11-25",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c25/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c25/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c25/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c25/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c25/slide-5.jpg"
+      ],
+      "caption": "Өнөөдөр шалгалт өгнө! 💪 Аав «арилжааны шалгалт гэж байдаг юм уу?!» гэсэн 😳\n30 асуулт, 24 зөв бол цол өөрөө ахина.\n\n🇬🇧 A 30-question exam to level up, with clear rank requirements.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c26",
+      "title": "Дэвтэр дүр — Олон таймфреймийн индикатор",
+      "section": "ХҮҮ",
+      "round": 26,
+      "date": "2026-11-26",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c26/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c26/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c26/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c26/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c26/slide-5.jpg"
+      ],
+      "caption": "Таймфрейм солих бүрт индикатор алга 😩\nТом таймфреймийн MA, RSI, MACD жижиг чарт дээр тасархай шугамаар гарна.\n\n🇬🇧 Multi-timeframe MA, RSI, MACD and Bollinger on one chart.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c27",
+      "title": "Дэвтэр дүр — Стратеги",
+      "section": "ААВ БА ХҮҮ",
+      "round": 27,
+      "date": "2026-11-27",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c27/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c27/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c27/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c27/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c27/slide-5.jpg"
+      ],
+      "caption": "Стратеги минь толгойд байгаа 😅 Аав «БИЧ!» гэсэн.\nТолгойд байгаа дүрэм шөнө дунд мартагддаг. Нэг хуудсанд буулга.\n\n🇬🇧 Write your strategy from a template, with a fixed risk per trade.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c28",
+      "title": "Дэвтэр дүр — Win rate ба RR",
+      "section": "ХҮҮ",
+      "round": 28,
+      "date": "2026-11-28",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c28/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c28/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c28/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c28/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c28/slide-5.jpg"
+      ],
+      "caption": "40% хожилтой ч ашигтай байлаа 🤯 Хүмүүс итгэдэггүй.\nWin rate биш, харьцаа шийднэ. 1:3 бол 10-аас 6-д нь алдсан ч ашигтай.\n\n🇬🇧 Win rate × RR grid: why the ratio matters more than the hit rate.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
+    },
+    {
+      "id": "dk-c29",
+      "title": "Дэвтэр дүр — Хамааралтай зах зээлүүд",
+      "section": "ААВ БА ХҮҮ",
+      "round": 29,
+      "date": "2026-11-29",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c29/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c29/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c29/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c29/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c29/slide-5.jpg"
+      ],
+      "caption": "Алт, доллар хоёр эсрэг гүйдэг гэнэ 🏃 «Ихэнхдээ» гэдэг чинь хэр найдвартай вэ?\nЯриа биш, хэмжсэн тоо, шалтгаантай нь.\n\n🇬🇧 Related markets explained: how reliable, why, and what it means for your position.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #xauusd #trading"
+    },
+    {
+      "id": "dk-c30",
+      "title": "Дэвтэр дүр — Данс алдах эрсдэл",
+      "section": "ХҮҮ",
+      "round": 30,
+      "date": "2026-11-30",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c30/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c30/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c30/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c30/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/dk-c30/slide-5.jpg"
+      ],
+      "caption": "3%-иар орсоор данс дууслаа 💀\nЭрсдэлээ таах биш, олон мянган симуляциар тооц. 1%-иас хэтрүүлэхгүй 😌\n\n🇬🇧 Risk of ruin from thousands of simulations of your own numbers.\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader"
     },
     {
       "id": "k02-temdeglel-3zuil",
@@ -1200,7 +1750,7 @@
       "section": "ТЭМДЭГЛЭЛИЙН ҮНЭН",
       "round": 1,
       "reel": "02-temdeglel-3zuil",
-      "date": "2026-11-02",
+      "date": "2026-12-01",
       "time": "14:00",
       "ig": true,
       "fb": true,
@@ -1215,12 +1765,32 @@
       "caption": "📒 188 арилжаа тэмдэглээд өөрийнхөө тухай мэдсэн 3 зүйл\n\n1️⃣ Хамгийн муу цаг: 21:00–22:00 — 70 арилжаа, −9.5R\n2️⃣ Ашигтай арилжааныхаа 41%-ийг эрт хаадаг\n3️⃣ Хожлын хувь 44% ч ашгийн харьцаа 1.33\n\nСанах ой худлаа хэлдэг. Тэмдэглэл хэлдэггүй.\nДэвтэр эдгээрийг тэмдэглэлээс чинь өөрөө тооцоолдог.\n\n👉 Туршиж үзэх бол 💬 чат бичээрэй.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#арилжаа #тэмдэглэл #статистик #форекс #Дэвтэр"
     },
     {
+      "id": "k30-itgel-aldagdal",
+      "title": "Итгэл — Ашгаа харуулдаг хүнээс асуу",
+      "section": "ИТГЭЛ",
+      "round": 2,
+      "reel": "30-itgel-aldagdal",
+      "date": "2026-12-02",
+      "time": "14:00",
+      "ig": true,
+      "fb": true,
+      "status": "queued",
+      "slides": [
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-1.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-2.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-3.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-4.jpg",
+        "https://raw.githubusercontent.com/monkherdenett-eng/levelhunter-carousel/main/2026-11/carousel/k30-itgel-aldagdal/slide-5.jpg"
+      ],
+      "caption": "🔍 Ашгаа харуулдаг хүнээс алдагдлыг нь асуу\n\nСкриншот — сонгосон хожил, засварлаж болно, алдагдал нуугдана.\nНийтийн линк — бүх арилжаа, систем тооцоолсон, алдагдал харагдана.\n\nДэвтэр дээрх линкэд хожлын хувь, харьцаа, R, уналт харагдана. Мөнгөн дүн харагдахгүй.\n\nИл тод байх нь итгэл.\n\n👉 Туршиж үзэх бол 💬 чат бичээрэй.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#итгэл #залилан #статистик #арилжаа #Дэвтэр"
+    },
+    {
       "id": "k29-medee-nfp",
       "title": "Мэдээ монголоор — NFP-ийн Баасан гараг",
       "section": "МЭДЭЭ МОНГОЛООР",
       "round": 1,
       "reel": "29-medee-nfp",
-      "date": "2026-11-06",
+      "date": "2026-12-03",
       "time": "14:00",
       "ig": true,
       "fb": true,
