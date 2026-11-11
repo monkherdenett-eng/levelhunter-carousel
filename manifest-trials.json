@@ -1,0 +1,41 @@
+{
+  "kind": "ig-trial-reels",
+  "timezone": "Asia/Ulaanbaatar",
+  "note": "Read hourly by the n8n workflow 'Level Hunter - Trial Reels (IG)': every entry whose date is today (UB) and whose time has passed is published as an Instagram trial reel (non-followers only, graduation MANUAL), unless a trial with the same caption is already on the account. Written by devter-insights/trial-reels.mjs schedule.",
+  "posts": [
+    {
+      "id": "r04-a",
+      "base": "r04",
+      "style": "A",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "video": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@1a9ac096e9661bf374caad3a2c96ea493abba1c1/2026-11/trials/r04-a/reel.mp4",
+      "bytes": 4569017,
+      "caption": "Миний алдагдлын ихэнх нь өдрийн ганцхан цагт гардаг байсан. Аль цаг вэ? 👀\nДэвтэрийн цагийн хүснэгт арилжаагаа цаг бүрээр задалж, аль цагт алддгийг харуулна.\n\n🔎 форекс арилжаа · алтны арилжаа (XAUUSD) · арилжааны статистик · трейдинг сэтгэл зүй · алдагдал · Монгол трейдер\n\n🇬🇧 One screen showed which hours were costing me money.\nforex trading · gold trading · trading statistics · trading psychology · losing trades — for Mongolian traders\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader",
+      "graduation": "MANUAL"
+    },
+    {
+      "id": "r04-b",
+      "base": "r04",
+      "style": "B",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "video": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@1a9ac096e9661bf374caad3a2c96ea493abba1c1/2026-11/trials/r04-b/reel.mp4",
+      "bytes": 4356669,
+      "caption": "Ихэнх трейдер өдрийн нэг л цагт хамгийн их алддаг 👀\nДэвтэрийн цагийн хүснэгт арилжаагаа цаг бүрээр задалж, аль цагт алддгийг харуулна.\n\n🔎 форекс арилжаа · алтны арилжаа (XAUUSD) · арилжааны статистик · трейдинг сэтгэл зүй · алдагдал · Монгол трейдер\n\n🇬🇧 One screen showed which hours were costing me money.\nforex trading · gold trading · trading statistics · trading psychology · losing trades — for Mongolian traders\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader",
+      "graduation": "MANUAL"
+    },
+    {
+      "id": "r04-c",
+      "base": "r04",
+      "style": "C",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "video": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@1a9ac096e9661bf374caad3a2c96ea493abba1c1/2026-11/trials/r04-c/reel.mp4",
+      "bytes": 4577614,
+      "caption": "Нэг сар тэмдэглэл хөтлөөд нэг зүйл олсон. Алдагдлын ихэнх нь нэг цагт байсан 😳\nДэвтэрийн цагийн хүснэгт арилжаагаа цаг бүрээр задалж, аль цагт алддгийг харуулна.\n\n🔎 форекс арилжаа · алтны арилжаа (XAUUSD) · арилжааны статистик · трейдинг сэтгэл зүй · алдагдал · Монгол трейдер\n\n🇬🇧 One screen showed which hours were costing me money.\nforex trading · gold trading · trading statistics · trading psychology · losing trades — for Mongolian traders\n\n💬 Дэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n🔑 XM партнер код: CC39R\n\n—\n⚠️ Боловсролын зорилготой. Арилжаа өндөр эрсдэлтэй, зөвхөн алдаж болох мөнгөөрөө арилжаал. Өнгөрсөн үр дүн ирээдүйн баталгаа биш.\n\n#forex #trading #forextrader",
+      "graduation": "MANUAL"
+    }
+  ],
+  "generated": "2026-11-11T05:37:42.165Z"
+}
