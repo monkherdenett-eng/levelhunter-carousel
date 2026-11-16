@@ -1,0 +1,564 @@
+{
+  "kind": "devterfx-posts",
+  "timezone": "Asia/Ulaanbaatar",
+  "note": "Read every 30 min by the n8n workflow 'Devterfx - Reels + Carousels (IG + FB)': each entry whose date is today (UB) and whose time has passed is posted on Instagram @devterfx.mn and the Facebook page Devterfx.mn, unless a post with the same caption is already there. Written by devter-drama/_publish-dv.mjs.",
+  "posts": [
+    {
+      "id": "re",
+      "type": "reel",
+      "date": "2026-11-17",
+      "time": "12:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Ээжийн тэмдэглэл\n\nЭэж нь нэг сарын турш арилжаа бүрийн өмнө ямар сэтгэлтэй байснаа бичжээ. Тоо нь өөрөө ярьсан.\nТа уурласан үедээ арилжаа хийдэг үү?\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "videoCdn": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/r/re/reel.mp4",
+      "cover": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/r/re/cover.jpg",
+      "bytes": 13967520
+    },
+    {
+      "id": "c01",
+      "type": "carousel",
+      "date": "2026-11-17",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "NFP гэж юу болохыг ч мэдэлгүй ороод шатсан 😂 Аав бүр уурласан.\nОдоо Дэвтэрт мэдээ бүр монголоор — алт, доллар яагаад хөдөлдгийг нь хүртэл хэлж өгдөг.\n\nEvery economic release explained in Mongolian — why it moves gold and FX.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c01/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c01/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c01/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c01/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c01/5.jpg"
+      ]
+    },
+    {
+      "id": "m03",
+      "type": "reel",
+      "date": "2026-11-18",
+      "time": "12:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Өглөөний цай\n\nГурван шөнө нуусан алдагдлаа хүү өглөө нь аавдаа хэллээ.\nАав уурласангүй. Харин нэг юм асуусан.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "videoCdn": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/r/m03/reel.mp4",
+      "cover": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/r/m03/cover.jpg",
+      "bytes": 15039544
+    },
+    {
+      "id": "c02",
+      "type": "carousel",
+      "date": "2026-11-18",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "FOMC шөнө орсон, өглөө данс 0 😭 Тэр шөнийг мартаагүй ээ.\nОдоо өнгөрсөн FOMC, NFP дээр эхлээд туршдаг болсон. Мөнгө биш, цаг л зарцуулна.\n\nBacktest real past NFP / FOMC releases with real spreads before risking money.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c02/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c02/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c02/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c02/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c02/5.jpg"
+      ]
+    },
+    {
+      "id": "m10",
+      "type": "reel",
+      "date": "2026-11-18",
+      "time": "20:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Гурван торой\n\nГурван торойн үлгэрийг бүгд мэднэ. Харин чиний данс аль байшин бэ?\nСүрлэн үү, модон уу, тоосгон уу?\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "videoCdn": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/r/m10/reel.mp4",
+      "cover": "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/r/m10/cover.jpg",
+      "bytes": 13741063
+    },
+    {
+      "id": "c03",
+      "type": "carousel",
+      "date": "2026-11-19",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Нэг арилжаагаар 20% алдчихлаа 😱 Лотоо нүдээрээ тооцсон…\nДанс, эрсдэл, стопоо оруулахад лот өөрөө гарна. Нүдээрээ биш, тоогоор ор.\n\nPosition size from your balance, risk % and stop — gold and FX.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c03/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c03/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c03/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c03/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c03/5.jpg"
+      ]
+    },
+    {
+      "id": "c04",
+      "type": "carousel",
+      "date": "2026-11-20",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Хөөе, 67 зурах хэрэгсэл нэг дор байна 🤯\nФибо, Ганн, Эллиотт, хармоник — гурван таб нээх хэрэггүй, нэг чартад бүгд.\n\n67 drawing tools on one chart, with keyboard shortcuts.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c04/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c04/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c04/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c04/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c04/5.jpg"
+      ]
+    },
+    {
+      "id": "c05",
+      "type": "carousel",
+      "date": "2026-11-21",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Аав мэдчихлээ 😬 Шөнө дунд хүртэл стопгүй…\n«Сүүлийн 20 арилжаанаас хэд нь ашигтай байсан бэ?» гэхэд хариулж чадаагүй. Одоо 1 минутад тэмдэглэдэг болсон.\n\nA one-minute trading journal: reason, emotion, screenshot.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c05/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c05/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c05/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c05/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c05/5.jpg"
+      ]
+    },
+    {
+      "id": "c06",
+      "type": "carousel",
+      "date": "2026-11-22",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Лондоныг хүлээсээр нэг цаг хоцорлоо 🤦 Европ цагаа сольчихсон байсан.\nОдоо сесс бүр Улаанбаатарын цагаар, цагийн шилжилттэйгээ өөрөө зурагдана.\n\nSession boxes in Ulaanbaatar time, daylight saving handled for you.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c06/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c06/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c06/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c06/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c06/5.jpg"
+      ]
+    },
+    {
+      "id": "c07",
+      "type": "carousel",
+      "date": "2026-11-23",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Шөнийн 3 цагт чарт ширтэж суусан 😵 Аав «УНТ!» гэсэн.\nОдоо түвшнээ тавиад унтдаг — үнэ хүрэхэд Discord-оор DM ирнэ.\n\nPrice alerts straight to your Discord DMs, even with the site closed.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c07/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c07/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c07/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c07/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c07/5.jpg"
+      ]
+    },
+    {
+      "id": "c08",
+      "type": "carousel",
+      "date": "2026-11-24",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "«90% ажилладаг стратеги» гэнэ 🙄 Бараг бүх мөнгөө хийх гэж байлаа.\nИтгэхээсээ өмнө лаа лаагаар өөрөө шалга. Тоо худлаа хэлдэггүй.\n\nCandle-by-candle backtesting from a random date, with a full study report.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c08/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c08/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c08/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c08/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c08/5.jpg"
+      ]
+    },
+    {
+      "id": "c09",
+      "type": "carousel",
+      "date": "2026-11-25",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Орой болгон 21 цагт алддаг байсан 😤 Аав «ДАХИАД!» гэсэн.\nЦагийн зураглал хамгийн муу цагийг чинь улаанаар харуулна.\n\nA weekday × hour heatmap that names your worst trading hour.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c09/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c09/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c09/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c09/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c09/5.jpg"
+      ]
+    },
+    {
+      "id": "c10",
+      "type": "carousel",
+      "date": "2026-11-26",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Уурлаад орсон арилжаа бүгд алдсан 😡 Танил санагдаж байна уу?\nМэдрэмж бүр тоогоор харагддаг болохоор одоо уурлахаараа цай уудаг ☕\n\nSee which emotions cost you the most R.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c10/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c10/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c10/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c10/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c10/5.jpg"
+      ]
+    },
+    {
+      "id": "c11",
+      "type": "carousel",
+      "date": "2026-11-27",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "200 арилжааг гараар бичих гэнэ 😩 Ёо ёо!\nMetaTrader-ийн нэг файлаар бүх түүх орчихлоо. Долоо хоног биш, нэг минут.\n\nImport your whole MT4/MT5 history from one HTML report.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c11/7.jpg"
+      ]
+    },
+    {
+      "id": "c12",
+      "type": "carousel",
+      "date": "2026-11-28",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "3 цаг чарт ширтээд 0 арилжаа 🫠 Бүгд л ингэдэг.\nPDH, PDL, сесс, FVG — нэг цэснээс асаахад өөрөө зурагдана.\n\nKey levels, liquidity, BOS/CHoCH and FVG drawn from one menu.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c12/7.jpg"
+      ]
+    },
+    {
+      "id": "c13",
+      "type": "carousel",
+      "date": "2026-11-29",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Групп дээрх сигналаар гүйж орсон 🏃 Аав «ЗОГС!» гэсэн.\nБүх нөхцөл ✓ болохоос нааш сетап түгжээтэй. Сигнал хүлээхийн оронд дүрмээ дагаарай.\n\nA checklist that keeps your setup locked until your conditions are met.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c13/7.jpg"
+      ]
+    },
+    {
+      "id": "c14",
+      "type": "carousel",
+      "date": "2026-11-30",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "«Би үргэлж ашигтай» гэдэг найз минь 😏 Profit factor-оо асуухад чимээгүй болсон.\nТоо худлаа хэлдэггүй.\n\nWin rate, profit factor, average R and drawdown, calculated for you.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-11/c/c14/7.jpg"
+      ]
+    },
+    {
+      "id": "c15",
+      "type": "carousel",
+      "date": "2026-12-01",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Ээж бөгж авах гээд алтны үнэ асуулаа 💍 Би унц, доллараар л мэддэг байсан 😅\nОдоо 1 грамм алт нь шууд төгрөгөөр харагдана.\n\nGold and silver price per gram in tögrög, updated every minute.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c15/7.jpg"
+      ]
+    },
+    {
+      "id": "c16",
+      "type": "carousel",
+      "date": "2026-12-02",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Кофе уух хооронд өдрийн төлөвлөгөө бэлэн ☕\nСесс, өчигдрийн дээд, доод, дараагийн мэдээ бүгд нэг картад байна.\n\nToday's levels card: sessions, previous day, next news.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c16/7.jpg"
+      ]
+    },
+    {
+      "id": "c17",
+      "type": "carousel",
+      "date": "2026-12-03",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "«Ашигтай байгаа» гэсэн чинь аав итгэсэнгүй 🤨\nЛинк явуулаад харуулсан. Харьцаа нь харагдана, мөнгөн дүн нуугдана.\n\nShare your results by link — ratios and R only, never dollar amounts.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c17/7.jpg"
+      ]
+    },
+    {
+      "id": "c18",
+      "type": "carousel",
+      "date": "2026-12-04",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Өдөрт 10 арилжаа, тэмдэглэл 0 😩\nMT5-аа холбоход арилжаа өөрөө орж ирдэг. Нууц үг дамжихгүй, зөвхөн уншина.\n\nAuto-sync from MT5 with a read-only EA — no broker password shared.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c18/7.jpg"
+      ]
+    },
+    {
+      "id": "c19",
+      "type": "carousel",
+      "date": "2026-12-05",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Демо, реал холилдчихлоо 😱 Ашигтай гэж бодсон чинь…\nДанс бүр тусдаа тоологдвол үнэн нь харагдана.\n\nUp to 8 accounts, each with its own journal and stats.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c19/7.jpg"
+      ]
+    },
+    {
+      "id": "c20",
+      "type": "carousel",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "BOS гэж ороод шүүрдүүлчихлээ 🧹 Танил санагдаж байна уу? 😅\nНэг ч төгрөг алдалгүйгээр sweep, BOS-оо таньж сур.\n\nPractise reading market structure and patterns with no money at risk.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c20/7.jpg"
+      ]
+    },
+    {
+      "id": "c21",
+      "type": "carousel",
+      "date": "2026-12-07",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Өнөөдөр 5 дараалан алдлаа 😤 «Ганцхан удаа нөхчихье…»\nТэр «ганцхан» чинь дансыг чинь дуусгана. Хязгаартаа хүрэхэд Дэвтэр анхааруулна.\n\nRisk Guard: daily loss limit, trade cap and losing-streak warnings.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c21/7.jpg"
+      ]
+    },
+    {
+      "id": "c22",
+      "type": "carousel",
+      "date": "2026-12-08",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "«NFP үргэлж 300 пипс явдаг» 🙄 Хэн хэлсэн юм?\nЦуурхлын оронд мэдээ бүрийн дараах бодит хөдөлгөөнийг минут минутаар хар.\n\nThe real price reaction after each release, minute by minute, with spread.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c22/7.jpg"
+      ]
+    },
+    {
+      "id": "c23",
+      "type": "carousel",
+      "date": "2026-12-09",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Стопоо дахиад нүүлгэсэн 🙈 «Одоохон буцна» гэж бодсон…\nАшиг биш, зуршлыг чинь 100 оноогоор дүгнэнэ.\n\nA discipline score that grades your process, not your profit.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c23/7.jpg"
+      ]
+    },
+    {
+      "id": "c24",
+      "type": "carousel",
+      "date": "2026-12-10",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Бектест дээр +20R, бодит дээр −5R 😭\nСпредээ тооцоогүй бектест өөрийгөө хуурах л юм. Лаа бүрийн бодит XM спредтэй турш.\n\nBacktests charged with real XM spreads, candle by candle.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c24/7.jpg"
+      ]
+    },
+    {
+      "id": "c25",
+      "type": "carousel",
+      "date": "2026-12-11",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Өнөөдөр шалгалт өгнө! 💪 Аав «арилжааны шалгалт гэж байдаг юм уу?!» гэсэн 😳\n30 асуулт, 24 зөв бол цол өөрөө ахина.\n\nA 30-question exam to level up, with clear rank requirements.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c25/7.jpg"
+      ]
+    },
+    {
+      "id": "c26",
+      "type": "carousel",
+      "date": "2026-12-12",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Таймфрейм солих бүрт индикатор алга 😩\nТом таймфреймийн MA, RSI, MACD жижиг чарт дээр тасархай шугамаар гарна.\n\nMulti-timeframe MA, RSI, MACD and Bollinger on one chart.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c26/7.jpg"
+      ]
+    },
+    {
+      "id": "c27",
+      "type": "carousel",
+      "date": "2026-12-13",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Стратеги минь толгойд байгаа 😅 Аав «БИЧ!» гэсэн.\nТолгойд байгаа дүрэм шөнө дунд мартагддаг. Нэг хуудсанд бич.\n\nWrite your strategy from a template, with a fixed risk per trade.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c27/7.jpg"
+      ]
+    },
+    {
+      "id": "c28",
+      "type": "carousel",
+      "date": "2026-12-14",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "40% хожилтой ч тооцоогоор ашигтай гарч болдог 🤯 Хүмүүс итгэдэггүй.\nWin rate биш, харьцаа шийднэ. 1:3 бол 10-аас 6-д нь алдсан ч тооцоогоор ашигтай.\n\nWin rate × RR grid: why the ratio matters more than the hit rate.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c28/7.jpg"
+      ]
+    },
+    {
+      "id": "c29",
+      "type": "carousel",
+      "date": "2026-12-15",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "Алт, доллар хоёр эсрэг гүйдэг гэнэ 🏃 «Ихэнхдээ» гэдэг чинь хэр найдвартай вэ?\nЯрианы оронд тоог нь шалтгаантай нь хар.\n\nRelated markets explained: how reliable, why, and what it means for your position.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c29/7.jpg"
+      ]
+    },
+    {
+      "id": "c30",
+      "type": "carousel",
+      "date": "2026-12-16",
+      "time": "16:00",
+      "ig": true,
+      "fb": true,
+      "caption": "3%-иар орсоор данс дууслаа 💀\nЭрсдэлээ таах биш, олон мянган симуляциар тооц. 1%-иас хэтрүүлэхгүй 😌\n\nRisk of ruin from thousands of simulations of your own numbers.\n\nДэлгэрэнгүй мэдээллийг чатаар аваарай.\n🔗 devterfx.mn\n⚠️ Жишээ өгөгдөл. Арилжаа эрсдэлтэй, ашиг амлахгүй.\n#Дэвтэр #форекс #трейдер",
+      "slides": [
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/1.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/2.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/3.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/4.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/5.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/6.jpg",
+        "https://cdn.jsdelivr.net/gh/monkherdenett-eng/levelhunter-carousel@0bc07da145598f75bcbc8917c53c9cc9a2da7d68/devterfx/2026-12/c/c30/7.jpg"
+      ]
+    }
+  ],
+  "generated": "2026-11-16T08:37:44.444Z"
+}
